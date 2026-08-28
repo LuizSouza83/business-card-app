@@ -113,7 +113,7 @@ export default async function Home() {
         </div>
         
         <h1 className="text-2xl font-bold">Luiz Souza</h1>
-        <p className="text-slate-400 mb-6">SAP BTP Consultant</p>
+        <p className="text-slate-400 mb-6">SAP BTP Solution Architect</p>
         
         {/* Action Buttons */}
         <div className="flex flex-col gap-3">
